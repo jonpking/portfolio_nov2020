@@ -1,0 +1,20 @@
+.mainNav {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+    background-color: rebeccapurple;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.navLinks {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navLinks a {
+    margin: 0 25px;
+}
