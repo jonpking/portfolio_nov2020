@@ -1,5 +1,21 @@
+.aboutSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.aboutHeadersAndImageDiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 75%;
+    margin: 30px 0;
+}
+
 .aboutHeaders {
-    border: 1px solid blue;
+    width: 650px;
 }
 
 .aboutHeaders h1 {
@@ -8,6 +24,37 @@
 }
 
 .aboutHeaders h2 {
-    font-size: 2.25rem;
+    font-size: 2rem;
+    font-weight: normal;
     margin: 0;
+}
+
+.selfImage {
+    width: 200px;
+    border-radius: 50px;
+}
+
+.aboutButtonsAndTextDiv {
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.aboutButtonsAndTextDiv p {
+    text-align: right;
+    font-size: 1.2rem;
+}
+
+.aboutButtons {
+    width: 475px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.aboutButton {
+    font-size: 1.2rem;
+    width: 200px;
+    height: 40px;
+    border-radius: 50px;
 }
