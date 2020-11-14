@@ -13,9 +13,14 @@ export default function Home() {
 
       <main className={styles.pageContainer}>
         <Navbar />
-        <About />
+        <div className={styles.aboutDiv}>
+          <About />
+        </div>
+        <div className={styles.projectsDiv}>
+        </div>
+        <div className={styles.contactDiv}>
+        </div>
       </main>
-
     </div>
   )
 }
