@@ -5,6 +5,7 @@
     background-color: #630F95;
     color: #EBEBEB;
     font-size: 1.2rem;
+    font-weight: bold;
 }
 
 .navLinks {
@@ -16,4 +17,9 @@
 
 .navLinks a {
     margin: 0 25px;
+}
+
+.navLinks a:hover {
+    box-shadow: 0 10px 6px -6px #777, 
+                0 -10px 6px -6px #777;
 }
