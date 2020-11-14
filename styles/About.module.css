@@ -24,8 +24,9 @@
 
 .aboutText h2 {
     font-size: 2rem;
-    font-weight: normal;
+    font-weight: lighter;
     margin: 0 0 25px 0;
+    color: #3a3a3a;
 }
 
 .aboutText p {
@@ -41,18 +42,30 @@
 .aboutButton {
     text-align: center;
     font-size: 1.2rem;
+    font-weight: bold;
     width: 200px;
     height: 40px;
     border-radius: 50px;
-    padding: 5px 0 0 0;
+    padding: 8px 0 0 0;
 }
 
 .workButton {
     background-color: #8842b1;
     color: #EBEBEB;
+    border: 2px solid #8842b1;
+}
+
+.workButton:hover {
+    background-color: #EBEBEB;
+    color: #8842b1;
+    border: 2px solid #8842b1;
 }
 
 .contactButton {
-    background-color: #EBEBEB;
     color: #8842b1;
+    border: 2px solid #8842b1;
+}
+
+.contactButton:hover {
+    background-color: #EBEBEB;
 }
