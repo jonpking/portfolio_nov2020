@@ -7,12 +7,11 @@ export default function About() {
                 <div className={styles.aboutText}>
                     <h1>
                         Jonathan King
-                </h1>
+                    </h1>
                     <h2>
                         Full-stack web developer with a passion
-                    <br />
-                    for user friendly designs
-                </h2>
+                        for user friendly designs
+                    </h2>
                     <div>
                         <p>
                             Life long learner, adept problem solver,
