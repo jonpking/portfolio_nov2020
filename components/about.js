@@ -22,8 +22,8 @@ export default function About() {
                     </div>
                 </div>
                 <div className={styles.aboutButtons}>
-                    <button className={styles.aboutButton}>View my work</button>
-                    <button className={styles.aboutButton}>Get in touch</button>
+                    <a href="#" className={`${styles.aboutButton} ${styles.workButton}`}>View my work</a>
+                    <a href="#" className={`${styles.aboutButton} ${styles.contactButton}`}>Get in touch</a>
                 </div>
             </div>
         </div>
