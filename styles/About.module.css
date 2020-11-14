@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-    margin-top: 25px;
+    height: 600px;
 }
 
 .aboutHeadersAndImageDiv {
@@ -11,7 +11,7 @@
     justify-content: space-between;
     align-items: center;
     width: 75%;
-    margin: 30px 0;
+    margin: 30px 0 0 0;
 }
 
 .aboutHeaders {
@@ -29,11 +29,6 @@
     margin: 0;
 }
 
-.selfImage {
-    width: 200px;
-    border-radius: 50px;
-}
-
 .aboutButtonsAndTextDiv {
     width: 75%;
     display: flex;
@@ -42,7 +37,6 @@
 }
 
 .aboutButtonsAndTextDiv p {
-    text-align: right;
     font-size: 1.2rem;
 }
 

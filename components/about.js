@@ -14,7 +14,6 @@ export default function About() {
                         for user friendly designs
                     </h2>
                 </div>
-                <img src="/images/self_cropped.png" className={styles.selfImage}></img>
             </div>
             <div className={styles.aboutButtonsAndTextDiv}>
                 <div className={styles.aboutButtons}>
