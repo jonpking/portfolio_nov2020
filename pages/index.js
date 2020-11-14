@@ -2,6 +2,7 @@ import Head from "next/head"
 import styles from "../styles/Home.module.css"
 import Navbar from "../components/navbar.js"
 import About from "../components/about.js"
+import Projects from "../components/projects.js"
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
           <About />
         </div>
         <div className={styles.projectsDiv}>
+          <Projects />
         </div>
         <div className={styles.contactDiv}>
         </div>
