@@ -12,7 +12,7 @@
 }
 
 .aboutText {
-    width: 560px;
+    /* width: 560px; */
     margin-bottom: 25px;
     color: #1A1A23;
 }
@@ -34,7 +34,7 @@
 }
 
 .aboutButtons {
-    width: 560px;
+    /* width: 560px; */
     display: flex;
     justify-content: space-evenly;
 }
