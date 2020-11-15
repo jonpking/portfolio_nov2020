@@ -1,14 +1,14 @@
-.aboutContent {
-    display: flex;
-    flex-direction: column;
-}
-
 .aboutSection {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 600px;
+    min-height: 85vh;
     margin-left: 75px;
+}
+
+.aboutContent {
+    display: flex;
+    flex-direction: column;
 }
 
 .aboutText {
