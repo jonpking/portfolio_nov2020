@@ -10,6 +10,7 @@ export default function About() {
                     </h1>
                     <h2>
                         Full-stack web developer with a passion
+                        <br />
                         for user friendly designs
                     </h2>
                     <div>
