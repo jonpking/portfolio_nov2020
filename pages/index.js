@@ -3,6 +3,7 @@ import styles from "../styles/Home.module.css"
 import Navbar from "../components/navbar.js"
 import About from "../components/about.js"
 import Projects from "../components/projects.js"
+import Contact from "../components/contact.js"
 
 export default function Home() {
   return (
@@ -23,6 +24,7 @@ export default function Home() {
           <Projects />
         </div>
         <div className={styles.contactDiv}>
+          <Contact />
         </div>
       </main>
     </div>
