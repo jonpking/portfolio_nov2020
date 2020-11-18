@@ -10,10 +10,22 @@ export default function Contact() {
                 </div>
                 <hr className={styles.hr} />
                 <div className={styles.contactInfo}>
-                    <p><i className={`fas fa-envelope-square`}></i>jonpking@gmail.com</p>
-                    <p><i className={`fas fa-phone-square-alt`}></i>(602)703-1741</p>
-                    <p><i className={`${styles.linkedinIcon} fab fa-linkedin`}></i>linkedin.com/in/jonpking314</p>
-                    <p><i className={`${styles.githubIcon} fab fa-github-square`}></i>github.com/jonpking</p>
+                    <p>
+                        <i className={`fas fa-envelope-square`}></i>
+                        jonpking@gmail.com
+                    </p>
+                    <p>
+                        <i className={`fas fa-phone-square-alt`}></i>
+                        (602)703-1741
+                    </p>
+                    <p>
+                        <i className={`${styles.linkedinIcon} fab fa-linkedin`}></i>
+                        linkedin.com/in/jonpking314
+                    </p>
+                    <p>
+                        <i className={`${styles.githubIcon} fab fa-github-square`}></i>
+                        github.com/jonpking
+                    </p>
                 </div>
             </div>
             <div className={styles.imageCard}>
