@@ -12,8 +12,7 @@
   content: "";
   background: url(/images/computer.jpg);
   background-size: cover;
-  /* background-position: 50% 75%; */
-  background-position: bottom left;
+  background-position: left;
   opacity: 0.5;
   top: 0;
   left: 0;
