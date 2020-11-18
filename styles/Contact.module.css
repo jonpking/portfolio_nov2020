@@ -3,24 +3,30 @@
     display: flex;
     justify-content: space-evenly;
     text-align: center;
+    /* padding-top: 65px; */
     align-items: center;
 }
 
 .contactCard {
+    position: relative;
+    bottom: 125px;
     width: 340px;
     height: 350px;
     background-color: #F7DD00;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.33);
+    transform: rotate(-7deg);
 }
 
 .contactTitle h1 {
     font-size: 2.7rem;
     margin-bottom: 0;
+    font-family: 'Yatra One', cursive;
 }
 
 .contactTitle h2 {
     font-size: 1.5rem;
     margin-top: 10px;
+    font-family: 'Yatra One', cursive;
 }
 
 .hr {
@@ -35,7 +41,12 @@
 .contactInfo {
     font-size: 1.3rem;
     text-align: left;
-    margin-left: 7.25%;
+    margin: 0 0 0 2rem;
+    line-height: 1rem;
+}
+
+.contactInfo p {
+    font-family: 'Yatra One', cursive;
 }
 
 .contactInfo svg {
@@ -43,6 +54,8 @@
 }
 
 .imageCard {
+    position: relative;
+    bottom: 100px;
     width: 340px;
     height: 350px;
     display: flex;
@@ -51,6 +64,7 @@
     border-radius: 2px;
     background-color: #EBEBEB;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.33);
+    transform: rotate(10deg);
 }
 
 .imageCard img {
