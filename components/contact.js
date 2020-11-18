@@ -2,7 +2,7 @@ import styles from "../styles/Contact.module.css"
 
 export default function Contact() {
     return (
-        <div className={styles.contactSection}>
+        <div id="contact" className={styles.contactSection}>
             <div className={styles.contactCard}>
                 <div className={styles.contactTitle}>
                     <h1>Jonathan King</h1>
