@@ -16,8 +16,12 @@ export default function About() {
                     <div>
                         <p>
                             Life long learner, adept problem solver,
-                            experienced team player, customer service expert,
-                            skilled communicator, and enthusiastic gamer of
+                            experienced team player,
+                            <br />
+                            customer service expert,
+                            skilled communicator,
+                            <br />
+                            enthusiastic gamer of
                             nearly every flavor.
                         </p>
                     </div>
