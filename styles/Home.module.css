@@ -1,6 +1,7 @@
 .pageContainer {
   min-height: 100vh;
   margin: 0 auto;
+  overflow: hidden;
 }
 
 .aboutDiv {
@@ -11,7 +12,8 @@
   content: "";
   background: url(/images/computer.jpg);
   background-size: cover;
-  background-position: 50% 75%;
+  /* background-position: 50% 75%; */
+  background-position: bottom left;
   opacity: 0.5;
   top: 0;
   left: 0;
