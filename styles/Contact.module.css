@@ -76,9 +76,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid #1A1A23;
     border-radius: 2px;
     background-color: #EBEBEB;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.33);
 }
 
 .imageCard img {
@@ -86,7 +86,7 @@
     width: 90%;
     height: 85%;
     margin-bottom: 15px;
-    border: 1px solid #1A1A23;
+    border: 1px solid #B2B2BE;
     border-radius: 2px;
     object-fit: cover;
     object-position: center;
