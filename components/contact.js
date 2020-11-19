@@ -11,20 +11,21 @@ export default function Contact() {
                 <hr className={styles.hr} />
                 <div className={styles.contactInfo}>
                     <p>
+                        <i className={`${styles.githubIcon} fab fa-github-square`}></i>
+                        <a href="//github.com/jonpking">jonpking</a>
+                    </p>
+                    <p>
+                        <i className={`${styles.linkedinIcon} fab fa-linkedin`}></i>
+                        <a href="//linkedin.com/in/jonpking314">jonpking314</a>
+                    </p>
+
+                    <p>
                         <i className={`fas fa-envelope-square`}></i>
                         <a href="mailto:jonpking@gmail.com">jonpking@gmail.com</a>
                     </p>
                     <p>
                         <i className={`fas fa-phone-square-alt`}></i>
                         <a href="tel:1-602-703-1741">(602)703-1741</a>
-                    </p>
-                    <p>
-                        <i className={`${styles.linkedinIcon} fab fa-linkedin`}></i>
-                        <a href="//linkedin.com/in/jonpking314">jonpking314</a>
-                    </p>
-                    <p>
-                        <i className={`${styles.githubIcon} fab fa-github-square`}></i>
-                        <a href="//github.com/jonpking">jonpking</a>
                     </p>
                 </div>
             </div>
