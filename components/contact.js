@@ -12,19 +12,19 @@ export default function Contact() {
                 <div className={styles.contactInfo}>
                     <p>
                         <i className={`fas fa-envelope-square`}></i>
-                        jonpking@gmail.com
+                        <a href="mailto:jonpking@gmail.com">jonpking@gmail.com</a>
                     </p>
                     <p>
                         <i className={`fas fa-phone-square-alt`}></i>
-                        (602)703-1741
+                        <a href="tel:1-602-703-1741">(602)703-1741</a>
                     </p>
                     <p>
                         <i className={`${styles.linkedinIcon} fab fa-linkedin`}></i>
-                        linkedin.com/in/jonpking314
+                        <a href="//linkedin.com/in/jonpking314">jonpking314</a>
                     </p>
                     <p>
                         <i className={`${styles.githubIcon} fab fa-github-square`}></i>
-                        github.com/jonpking
+                        <a href="//github.com/jonpking">jonpking</a>
                     </p>
                 </div>
             </div>
