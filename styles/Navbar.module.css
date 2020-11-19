@@ -16,7 +16,8 @@
     margin: 0;
 }
 
-.navLinks li {
+.navLinks a {
+    display: inline-block;
     padding: 1.2rem 2rem;
 }
 
