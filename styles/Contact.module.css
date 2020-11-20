@@ -19,13 +19,13 @@
 .contactTitle h1 {
     font-size: 2.7rem;
     margin-bottom: 0;
-    font-family: 'Yatra One', cursive;
+    font-family: 'Caveat', cursive;
 }
 
 .contactTitle h2 {
     font-size: 1.5rem;
     margin-top: 10px;
-    font-family: 'Yatra One', cursive;
+    font-family: 'Caveat', cursive;
 }
 
 .hr {
@@ -45,7 +45,9 @@
 }
 
 .contactInfo a {
-    font-family: 'Yatra One', cursive;
+    font-family: 'Caveat', cursive;
+    font-weight: bold;
+    letter-spacing: 2px;
 }
 
 .contactInfo svg {
