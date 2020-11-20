@@ -10,17 +10,14 @@ export default function About() {
                     </h1>
                     <h2>
                         Full-stack web developer with a passion
-                        <br />
                         for user friendly designs
                     </h2>
                     <div>
                         <p>
                             Life long learner, adept problem solver,
                             experienced team player,
-                            <br />
                             customer service expert,
                             skilled communicator,
-                            <br />
                             enthusiastic gamer of
                             nearly every flavor.
                         </p>
