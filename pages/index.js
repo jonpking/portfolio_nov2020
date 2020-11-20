@@ -13,9 +13,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
-        <link href="https://fonts.googleapis.com/css2?family=Ubuntu&
-                    family=Yatra+One&display=swap" rel="stylesheet"></link>
-
+        <link href="https://fonts.googleapis.com/css2?family=Caveat&
+                    family=Ubuntu&display=swap" rel="stylesheet"></link>
       </Head>
 
       <main className={styles.pageContainer}>
