@@ -1,12 +1,11 @@
 .aboutSection {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     min-height: 85vh;
     margin-left: 100px;
+    padding-top: 75px;
 }
 
 .aboutContent {
+    max-width: 50%;
     display: flex;
     flex-direction: column;
 }
