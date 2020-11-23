@@ -1,10 +1,11 @@
+import { loadGetInitialProps } from "next/dist/next-server/lib/utils"
 import styles from "../styles/Project.module.css"
 
-export default function Projects() {
+export default function Projects(props) {
     return (
         <div className={styles.projectCard}>
             <div className={styles.projectTitle}>
-                <h3>Crystal Collector</h3>
+                <h3>{props.project.name}</h3>
             </div>
             <div className={styles.projectImage}>
                 <img src="/images/computer.jpg"></img>
