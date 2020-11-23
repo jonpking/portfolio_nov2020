@@ -2,5 +2,13 @@
     min-height: 100vh;
     display: flex;
     justify-content: center;
+}
+
+.projectsCardWrapper {
+    display: flex;
+    justify-content: space-evenly;
     align-items: center;
+    flex-wrap: wrap;
+    max-width: 90%;
+    margin: 50px;
 }
