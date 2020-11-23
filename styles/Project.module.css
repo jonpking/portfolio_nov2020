@@ -38,7 +38,7 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    border-top: 1px solid black;
+    border-top: 1px solid #1A1A23;
 }
 
 .projectLinks a {
@@ -49,15 +49,15 @@
 }
 
 .projectLinks a:nth-child(1) {
-    border-right: 1px solid black;
+    border-right: 1px solid #1A1A23;
 }
 
 .projectLinks a:nth-child(1):hover {
-    background-color: teal;
+    background-color: #FECDAA;
 }
 
 .projectLinks a:nth-child(2):hover {
-    background-color: tomato;
+    background-color: #FECDAA;
 }
 
 .projectLinks svg {

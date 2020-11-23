@@ -48,8 +48,8 @@
 }
 
 .workButton {
-    color: #8842b1;
-    border: 2px solid #8842b1;
+    color: #663399;
+    border: 2px solid #663399;
 }
 
 .workButton:hover {
@@ -57,13 +57,13 @@
 }
 
 .contactButton {
-    background-color: #8842b1;
+    background-color: #663399;
     color: #EBEBEB;
-    border: 2px solid #8842b1;
+    border: 2px solid #663399;
 }
 
 .contactButton:hover {
     background-color: #EBEBEB;
-    color: #8842b1;
-    border: 2px solid #8842b1;
+    color: #663399;
+    border: 2px solid #663399;
 }
