@@ -2,12 +2,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 400px;
+    width: 350px;
     margin: 50px;
     border-radius: 15px;
     overflow: hidden;
     background-color: white;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.33);
+    min-height: 575px;
 }
 
 .projectTitle {
@@ -23,7 +24,7 @@
 }
 
 .projectDescription {
-    height: 150px;
+    height: 100px;
     width: 100%;
     text-align: center;
 }
@@ -35,6 +36,7 @@
 
 .projectTech ul {
     padding: 0 20px;
+    min-height: 75px;
 }
 
 .projectTech li {
