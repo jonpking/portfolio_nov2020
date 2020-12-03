@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 300px;
+    width: 400px;
     margin: 50px;
     border-radius: 15px;
     overflow: hidden;
@@ -15,7 +15,7 @@
 }
 
 .projectImage img {
-    height: 200px;
+    height: 250px;
     width: 100%;
     display: block;
     object-fit: cover;
@@ -23,7 +23,7 @@
 }
 
 .projectDescription {
-    height: 100px;
+    height: 150px;
     width: 100%;
     text-align: center;
 }
@@ -31,6 +31,18 @@
 .projectDescription p {
     padding: .7rem;
     margin: 0;
+}
+
+.projectTech ul {
+    padding: 0 20px;
+}
+
+.projectTech li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 5px;
+    margin: 5px;
+    background-color: grey;
 }
 
 .projectLinks {

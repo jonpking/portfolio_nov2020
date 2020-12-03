@@ -15,6 +15,17 @@ export default function Projects(props) {
                 and jQuery. This was put together in approximately one
                     week.</p>
             </div>
+            <div className={styles.projectTech}>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>Javascript</li>
+                    <li>React</li>
+                    <li>NextJS</li>
+                    <li>MongoDB</li>
+                    <li>Node</li>
+                </ul>
+            </div>
             <div className={styles.projectLinks}>
                 <a href="">
                     <i className="fab fa-lg fa-github"></i>
