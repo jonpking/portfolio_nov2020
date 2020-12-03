@@ -11,56 +11,40 @@
         "name": "TrekTrak",
         "description": "A simple app for creating a travel journal/blog about your adventures. Includes user authorization and authentication.",
         "tech": [],
-        "imagePath": "/images/computer.jpg",
-        "repoPath": "",
-        "livePath": ""
+        "imagePath": "/images/trektrak.png",
+        "repoPath": "https://github.com/jonpking/TrekTrak",
+        "livePath": "https://trek-trak.herokuapp.com/"
     },
     {
         "name": "Memory Match Game",
         "description": "This is a simple card based memory game in which you flip over cards, revealing various images on the other side, and attempt to find matching pairs.",
         "tech": [],
-        "imagePath": "/images/computer.jpg",
-        "repoPath": "",
-        "livePath": ""
+        "imagePath": "/images/memorymatchgame.png",
+        "repoPath": "https://github.com/jonpking/MemoryMatchGame",
+        "livePath": "http://www.jonpking.com/MemoryMatchGame/"
     },
     {
         "name": "Clicky Game",
         "description": "A simple game in which you attempt to click each unique image without clicking on any of them more than once!",
         "tech": [],
-        "imagePath": "/images/computer.jpg",
-        "repoPath": "",
-        "livePath": ""
+        "imagePath": "/images/clickygame.png",
+        "repoPath": "https://github.com/jonpking/clicky-game",
+        "livePath": "https://kingclickygame.netlify.app/"
     },
     {
         "name": "Crystal Clicker",
         "description": "This is a simple game of hidden numbers and a math puzzle that can be played in your web browser.",
         "tech": [],
-        "imagePath": "/images/computer.jpg",
-        "repoPath": "",
-        "livePath": ""
+        "imagePath": "/images/crystalcollector.png",
+        "repoPath": "https://github.com/jonpking/Crystal-collector",
+        "livePath": "https://www.jonpking.com/Crystal-collector/"
     },
     {
         "name": "Giftastic",
         "description": "An app that pulls various gifs from the giphy API based on keywords that can be submitted by the user.",
         "tech": [],
-        "imagePath": "/images/computer.jpg",
-        "repoPath": "",
-        "livePath": ""
-    },
-    {
-        "name": "liri-node-app",
-        "description": "The LIRI-node-app is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data.",
-        "tech": [],
-        "imagePath": "/images/computer.jpg",
-        "repoPath": "",
-        "livePath": ""
-    },
-    {
-        "name": "Bamazon",
-        "description": "Bamazon is an Amazon-like storefront that uses MySQL to store its inventory. The app will take in orders from customers and deplete stock from the store's inventory using a CLI.",
-        "tech": [],
-        "imagePath": "/images/computer.jpg",
-        "repoPath": "",
-        "livePath": ""
+        "imagePath": "/images/giftastic.png",
+        "repoPath": "https://github.com/jonpking/Giftastic",
+        "livePath": "https://www.jonpking.com/Giftastic/"
     }
 ]
