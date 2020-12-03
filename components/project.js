@@ -27,11 +27,11 @@ export default function Projects(props) {
                 </ul>
             </div>
             <div className={styles.projectLinks}>
-                <a href="">
+                <a href={props.project.repoPath}>
                     <i className="fab fa-lg fa-github"></i>
                     View Repo
                     </a>
-                <a href="">
+                <a href={props.project.livePath}>
                     <i className="fas fa-lg fa-link"></i>
                     Live Demo
                     </a>
