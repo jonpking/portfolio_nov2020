@@ -8,12 +8,12 @@ export default function Projects(props) {
                 <h3>{props.project.name}</h3>
             </div>
             <div className={styles.projectImage}>
-                <img src="/images/computer.jpg"></img>
+                <img src={props.project.imagePath}></img>
             </div>
             <div className={styles.projectDescription}>
-                <p>A very simple number game built using onClick functions
-                and jQuery. This was put together in approximately one
-                    week.</p>
+                <p>
+                    {props.project.description}
+                </p>
             </div>
             <div className={styles.projectTech}>
                 <ul>
