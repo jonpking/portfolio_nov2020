@@ -4,8 +4,8 @@
         "description": "This app allows a user to input a list of options and select an option at random.",
         "tech": ["HTML", "CSS", "Javascript", "React", "Webpack", "Babel", "Git", "SCSS/Sass"],
         "imagePath": "/images/indecision.png",
-        "repoPath": "//https://github.com/jonpking/IndecisionAppReactCourse",
-        "livePath": "//https://kingindecisionapp.netlify.app/"
+        "repoPath": "https://github.com/jonpking/IndecisionAppReactCourse",
+        "livePath": "https://kingindecisionapp.netlify.app/"
     },
     {
         "name": "TrekTrak",
