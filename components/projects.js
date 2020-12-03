@@ -7,7 +7,7 @@ export default function Projects() {
         <div id="projects" className={styles.projectsSection}>
             <div className={styles.projectsCardWrapper}>
                 {
-                    data.map((project) => <Project project={project} />)
+                    data.map((project) => <Project project={project} key={project.name} />)
                 }
             </div>
         </div>
