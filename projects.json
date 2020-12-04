@@ -10,7 +10,7 @@
     {
         "name": "TrekTrak",
         "description": "A simple app for creating a travel journal/blog about your adventures. Includes user authorization and authentication.",
-        "tech": [],
+        "tech": ["Javascript", "EJS", "Express", "Git", "MongoDB", "PassportJS", "ValidatorJS"],
         "imagePath": "/images/trektrak.png",
         "repoPath": "https://github.com/jonpking/TrekTrak",
         "livePath": "https://trek-trak.herokuapp.com/"
@@ -18,7 +18,7 @@
     {
         "name": "Memory Match Game",
         "description": "This is a simple card based memory game in which you flip over cards, revealing various images on the other side, and attempt to find matching pairs.",
-        "tech": [],
+        "tech": ["HTML", "CSS", "Javascript", "JQuery", "Git", "AJAX", "Giphy API"],
         "imagePath": "/images/memorymatchgame.png",
         "repoPath": "https://github.com/jonpking/MemoryMatchGame",
         "livePath": "http://www.jonpking.com/MemoryMatchGame/"
@@ -26,7 +26,7 @@
     {
         "name": "Clicky Game",
         "description": "A simple game in which you attempt to click each unique image without clicking on any of them more than once!",
-        "tech": [],
+        "tech": ["HTML", "CSS", "Javascript", "React", "Create-React-App", "Git", "Bootstrap"],
         "imagePath": "/images/clickygame.png",
         "repoPath": "https://github.com/jonpking/clicky-game",
         "livePath": "https://kingclickygame.netlify.app/"
@@ -34,7 +34,7 @@
     {
         "name": "Crystal Clicker",
         "description": "This is a simple game of hidden numbers and a math puzzle that can be played in your web browser.",
-        "tech": [],
+        "tech": ["HTML", "CSS", "Javascript", "JQuery", "Git"],
         "imagePath": "/images/crystalcollector.png",
         "repoPath": "https://github.com/jonpking/Crystal-collector",
         "livePath": "https://www.jonpking.com/Crystal-collector/"
@@ -42,7 +42,7 @@
     {
         "name": "Giftastic",
         "description": "An app that pulls various gifs from the giphy API based on keywords that can be submitted by the user.",
-        "tech": [],
+        "tech": ["HTML", "CSS", "Javascript", "JQuery", "Git", "AJAX", "Giphy API"],
         "imagePath": "/images/giftastic.png",
         "repoPath": "https://github.com/jonpking/Giftastic",
         "livePath": "https://www.jonpking.com/Giftastic/"
