@@ -25,6 +25,7 @@
 .projectDescription {
     height: 75px;
     width: 100%;
+    height: 85px;
     text-align: center;
 }
 
@@ -43,7 +44,8 @@
     list-style-type: none;
     padding: 5px;
     margin: 5px;
-    background-color: grey;
+    background-color: #c6f8ec;
+    color: #1f6655;
 }
 
 .projectLinks {
@@ -66,11 +68,11 @@
 }
 
 .projectLinks a:nth-child(1):hover {
-    background-color: #FECDAA;
+    background-color: #c6f8ec;
 }
 
 .projectLinks a:nth-child(2):hover {
-    background-color: #FECDAA;
+    background-color: #c6f8ec;
 }
 
 .projectLinks svg {
