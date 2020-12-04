@@ -1,4 +1,3 @@
-import { loadGetInitialProps } from "next/dist/next-server/lib/utils"
 import styles from "../styles/Project.module.css"
 
 export default function Projects(props) {
@@ -17,13 +16,7 @@ export default function Projects(props) {
             </div>
             <div className={styles.projectTech}>
                 <ul>
-                    <li>HTML</li>
-                    <li>CSS</li>
-                    <li>Javascript</li>
-                    <li>React</li>
-                    <li>NextJS</li>
-                    <li>MongoDB</li>
-                    <li>Node</li>
+                    {props.project.tech.map((tech) => <li>{tech}</li>)}
                 </ul>
             </div>
             <div className={styles.projectLinks}>
