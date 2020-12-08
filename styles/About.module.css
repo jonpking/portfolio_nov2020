@@ -34,7 +34,6 @@
 .aboutButtons {
     display: flex;
     justify-content: space-evenly;
-    flex-wrap: wrap;
 }
 
 .aboutButton {
@@ -44,7 +43,7 @@
     width: 200px;
     height: 40px;
     border-radius: 50px;
-    padding: 8px 0 0 0;
+    padding-top: 8px;
 }
 
 .workButton {
@@ -70,7 +69,35 @@
 
 /* small devices (phones) 688px */
 @media (max-width: 43em) {
+    .aboutSection {
+        margin-left: 75px;
+        padding-top: 20px;
+    }
 
+    .aboutText {
+        margin-bottom: 10px;
+    }
+
+    .aboutText h1 {
+        font-size: 3rem;
+    }
+
+    .aboutText h2 {
+        font-size: 1.5rem;
+    }
+
+    .aboutText p {
+        font-size: 1rem;
+    }
+
+    .aboutButton {
+        font-size: 1rem;
+        padding-top: 9px;
+    }
+
+    .contactButton {
+        margin-right: 10px;
+    }
 }
 
 /* medium devices (tablets) 992px */

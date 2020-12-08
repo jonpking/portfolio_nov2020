@@ -95,7 +95,9 @@
 
 /* small devices (phones) 688px */
 @media (max-width: 43em) {
-
+  .aboutDiv::after {
+    background-position: 55% 75%;
+  }
 }
 
 /* medium devices (tablets) 992px */
