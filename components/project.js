@@ -16,7 +16,7 @@ export default function Projects(props) {
             </div>
             <div className={styles.projectTech}>
                 <ul>
-                    {props.project.tech.map((tech) => <li>{tech}</li>)}
+                    {props.project.tech.map((tech) => <li key={tech}>{tech}</li>)}
                 </ul>
             </div>
             <div className={styles.projectLinks}>
