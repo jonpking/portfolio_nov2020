@@ -23,5 +23,6 @@
 
 .navLinks li:hover {
     cursor: pointer;
-    background-color: #1A1A23;
+    background-color: #9566c0;
+    color: #3f3f3f;
 }
