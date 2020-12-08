@@ -3,9 +3,6 @@ import styles from "../styles/Navbar.module.css"
 export default function Navbar() {
     return (
         <header className={styles.mainNav}>
-            <p>
-                JK
-            </p>
             <ul className={styles.navLinks}>
                 <li>
                     <a href="#about">About</a>

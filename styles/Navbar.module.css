@@ -1,6 +1,6 @@
 .mainNav {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     padding: 0 100px;
     background-color: #663399;
     color: #EBEBEB;
@@ -25,4 +25,15 @@
     cursor: pointer;
     background-color: #9566c0;
     color: #3f3f3f;
+}
+
+/* small devices (phones) 688px */
+@media (max-width: 43em) {
+    .mainNav {
+        justify-content: center;
+    }
+
+    .navLinks a {
+        padding: 1.2rem 3rem;
+    }
 }
