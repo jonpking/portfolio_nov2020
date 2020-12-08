@@ -67,3 +67,18 @@
     color: #663399;
     border: 2px solid #663399;
 }
+
+/* small devices (phones) 688px */
+@media (max-width: 43em) {
+
+}
+
+/* medium devices (tablets) 992px */
+@media (max-width: 62em) {
+
+}
+
+/* large devices (computers) 1312px */
+@media (max-width: 82em) {
+
+}

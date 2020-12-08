@@ -78,3 +78,18 @@
     object-fit: cover;
     object-position: center;
 }
+
+/* small devices (phones) 688px */
+@media (max-width: 43em) {
+
+}
+
+/* medium devices (tablets) 992px */
+@media (max-width: 62em) {
+
+}
+
+/* large devices (computers) 1312px */
+@media (max-width: 82em) {
+
+}
