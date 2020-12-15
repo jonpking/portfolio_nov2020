@@ -18,7 +18,7 @@
     {
         "name": "Memory Match Game",
         "description": "This is a simple card based memory game in which you flip over cards, revealing various images on the other side, and attempt to find matching pairs.",
-        "tech": ["HTML", "CSS", "Javascript", "JQuery", "Git", "AJAX", "Giphy API"],
+        "tech": ["HTML", "CSS", "Javascript", "Git", "AJAX", "Giphy API"],
         "imagePath": "/images/memorymatchgame.png",
         "repoPath": "https://github.com/jonpking/MemoryMatchGame",
         "livePath": "http://www.jonpking.com/MemoryMatchGame/"
