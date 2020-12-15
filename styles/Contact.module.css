@@ -8,7 +8,7 @@
 
 .contactCard {
     position: relative;
-    bottom: 125px;
+    bottom: 115px;
     width: 340px;
     height: 350px;
     background-color: #F7DD00;
@@ -56,7 +56,7 @@
 
 .imageCard {
     position: relative;
-    bottom: 100px;
+    bottom: 90px;
     width: 340px;
     height: 350px;
     display: flex;
@@ -77,19 +77,4 @@
     border-radius: 2px;
     object-fit: cover;
     object-position: center;
-}
-
-/* small devices (phones) 688px */
-@media (max-width: 43em) {
-
-}
-
-/* medium devices (tablets) 992px */
-@media (max-width: 62em) {
-
-}
-
-/* large devices (computers) 1312px */
-@media (max-width: 82em) {
-
 }
