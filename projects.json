@@ -21,7 +21,7 @@
         "tech": ["HTML", "CSS", "Javascript", "Git", "AJAX", "Giphy API"],
         "imagePath": "/images/memorymatchgame.png",
         "repoPath": "https://github.com/jonpking/MemoryMatchGame",
-        "livePath": "http://www.jonpking.com/MemoryMatchGame/"
+        "livePath": "https://jonpking.github.io/MemoryMatchGame/"
     },
     {
         "name": "Clicky Game",
@@ -32,12 +32,12 @@
         "livePath": "https://kingclickygame.netlify.app/"
     },
     {
-        "name": "Crystal Clicker",
+        "name": "Crystal Collector",
         "description": "This is a simple game of hidden numbers and a math puzzle that can be played in your web browser.",
         "tech": ["HTML", "CSS", "Javascript", "JQuery", "Git"],
         "imagePath": "/images/crystalcollector.png",
         "repoPath": "https://github.com/jonpking/Crystal-collector",
-        "livePath": "https://www.jonpking.com/Crystal-collector/"
+        "livePath": "https://jonpking.github.io/Crystal-collector/"
     },
     {
         "name": "Giftastic",
@@ -45,6 +45,6 @@
         "tech": ["HTML", "CSS", "Javascript", "JQuery", "Git", "AJAX", "Giphy API"],
         "imagePath": "/images/giftastic.png",
         "repoPath": "https://github.com/jonpking/Giftastic",
-        "livePath": "https://www.jonpking.com/Giftastic/"
+        "livePath": "https://jonpking.github.io/Giftastic/"
     }
 ]
